@@ -1,10 +1,9 @@
 <h1 align="center">NguyenV.Tu</h1>
-<p align="center"><b>Full-stack Developer at Tuan Chau Group</b> · 3 years of experience</p>
+<p align="center"><b>Full-stack Developer at Tuan Chau Group</b></p>
 
 ---
 
 ### About
-Full-stack developer with 3 years of experience building microservice platforms on .NET and React.
 I design service-oriented backends, write performance-focused SQL, and ship maintainable admin interfaces.
 On the DevOps side, I own the delivery pipeline: Docker images, GitHub Actions CI/CD, and Linux/IIS deployments.
 Most of my work lives in private company repositories; happy to discuss it in detail on request.
