@@ -10,20 +10,16 @@ Most of my work lives in private company repositories; happy to discuss it in de
 
 ### Tech Stack
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,redis,react,ts,docker,linux&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Cpostgres%2Cmongodb%2Credis%2Creact%2Cts%2Cdocker%2Clinux&theme=dark">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,redis,react,ts,docker,linux&theme=light" alt="Tech stack">
 </picture>
 
 Also: Microsoft SQL Server, IIS
 
-### GitHub Stats
+### GitHub Activity
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toilatu&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=toilatu&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toilatu&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=C9D1D9">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toilatu&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toilatu&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D">
+  <img src="https://streak-stats.demolab.com?user=toilatu&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=57606A&stroke=D0D7DE" alt="GitHub streak">
 </picture>
 
 ### Contact
